@@ -6,7 +6,7 @@ class Fruit:
 # Parent class 2
 class Color:
     def color(self):
-        print("Fruits have colors 🌈")
+        print("Fruits have colors ")
 
 # Child class (inherits both)
 class Apple(Fruit, Color):
